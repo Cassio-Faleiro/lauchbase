@@ -27,10 +27,10 @@
 
 ## :rocket: Desafios
 
-- [Primeiros passos com JavaScript](desafios/01-1-primeiros-passos-com-js.js)
-- [Lidando com objetos e vetores](desafios/01-2-lidando-com-objetos-e-vetores.md)
-- [Funções e estruturas de repetição](desafios/01-3-funcoes-e-estruturas-de-repeticao.md)
-- [Aplicação: Operações bancárias](desafios/01-4-aplicacao-operacoes-bancarias.md)
+- [Primeiros passos com JavaScript](desafios/desafio-1-1.js)
+- [Lidando com objetos e vetores](desafios/desafio-1-2)
+- [Funções e estruturas de repetição](desafios/desafio-1-3)
+- [Aplicação: Operações bancárias](desafios/desafio-1-4)
 
 ## :memo: Licença
 
