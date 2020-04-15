@@ -16,11 +16,8 @@ const empresa = {
 console.log(`A empresa ${empresa.nome} está localizada em ${empresa.endereco.rua} número ${empresa.endereco.numero}, bairro ${empresa.endereco.bairro}.\nE é administrado pelo CEO ${empresa.ceo}.\nO ponto de referencia da empresa é a sua cor ${empresa.cor}.\nRocketseat tem como foco a ${empresa.foco}!`)
 
 //Vetores e objetos:
-
 // Crie um programa com um objeto para armazenar dados de um programador como nome, idade e tecnologias que trabalha.
-
 // Um programador pode trabalhar com várias tecnologias, por isso armazene essas tecnologias em um array.
-
 // As tecnologias também devem ser objetos contendo nome e especialidade, use as tecnologias abaixo:
 
 const nomeProgramador = "Cássio"
